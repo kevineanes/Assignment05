@@ -25,6 +25,7 @@
     "graceful-fs": "^4.1.11",
     "gulp": "^3.9.1",
     "gulp-nodemon": "^2.2.1",
-    "minimatch": "^3.0.3"
+    "minimatch": "^3.0.3",
+    "mongoose": "^4.9.2"
   }
 }
