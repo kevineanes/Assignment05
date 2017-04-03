@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/kevineanes/Assignment05#readme",
   "dependencies": {
+    "body-parser": "^1.17.1",
     "graceful-fs": "^4.1.11",
     "gulp": "^3.9.1",
     "gulp-nodemon": "^2.2.1",
